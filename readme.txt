@@ -7,4 +7,5 @@ second.
 boss
 Creating a new branch is quick and simple.
 merge.
-featurel.
+<<<<<<< HEAD
+featurel.aaa.
